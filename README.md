@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Preetish Prasad</h1>
 <h3 align="center">A passionate React.js developer from India.</h3>
 
-- 🔭 I’m currently working on **Backend Projects using MERN Stack**
+- I’m currently working on **Backend Projects using MERN Stack**
 
-- 🌱 I’m currently learning **MERN Stack.**
+- I’m currently learning **MERN Stack.**
 
-- 👯 I’m looking to collaborate on **React.js Projects and Javascript projects**
+- I’m looking to collaborate on **React.js Projects and Javascript projects**
 
-- 🤝 I’m looking for help with **Backend Projects in Node.js**
+- I’m looking for help with **Backend Projects in Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/prasadpreetish](https://github.com/prasadpreetish)
+- All of my projects are available at [https://github.com/prasadpreetish](https://github.com/prasadpreetish)
 
-- 📫 How to reach me **https://linkedin.com/in/preetishprasad**
+- How to reach me **https://linkedin.com/in/preetishprasad**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
